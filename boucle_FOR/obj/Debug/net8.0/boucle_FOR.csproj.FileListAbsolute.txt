@@ -1,0 +1,14 @@
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\boucle_FOR\bin\Debug\net8.0\boucle_FOR.exe
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\boucle_FOR\bin\Debug\net8.0\boucle_FOR.deps.json
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\boucle_FOR\bin\Debug\net8.0\boucle_FOR.runtimeconfig.json
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\boucle_FOR\bin\Debug\net8.0\boucle_FOR.dll
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\boucle_FOR\bin\Debug\net8.0\boucle_FOR.pdb
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\boucle_FOR\obj\Debug\net8.0\boucle_FOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\boucle_FOR\obj\Debug\net8.0\boucle_FOR.AssemblyInfoInputs.cache
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\boucle_FOR\obj\Debug\net8.0\boucle_FOR.AssemblyInfo.cs
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\boucle_FOR\obj\Debug\net8.0\boucle_FOR.csproj.CoreCompileInputs.cache
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\boucle_FOR\obj\Debug\net8.0\boucle_FOR.dll
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\boucle_FOR\obj\Debug\net8.0\refint\boucle_FOR.dll
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\boucle_FOR\obj\Debug\net8.0\boucle_FOR.pdb
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\boucle_FOR\obj\Debug\net8.0\boucle_FOR.genruntimeconfig.cache
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\boucle_FOR\obj\Debug\net8.0\ref\boucle_FOR.dll

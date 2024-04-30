@@ -1,0 +1,14 @@
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\BillArray\bin\Debug\net8.0\BillArray.exe
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\BillArray\bin\Debug\net8.0\BillArray.deps.json
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\BillArray\bin\Debug\net8.0\BillArray.runtimeconfig.json
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\BillArray\bin\Debug\net8.0\BillArray.dll
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\BillArray\bin\Debug\net8.0\BillArray.pdb
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\BillArray\obj\Debug\net8.0\BillArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\BillArray\obj\Debug\net8.0\BillArray.AssemblyInfoInputs.cache
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\BillArray\obj\Debug\net8.0\BillArray.AssemblyInfo.cs
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\BillArray\obj\Debug\net8.0\BillArray.csproj.CoreCompileInputs.cache
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\BillArray\obj\Debug\net8.0\BillArray.dll
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\BillArray\obj\Debug\net8.0\refint\BillArray.dll
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\BillArray\obj\Debug\net8.0\BillArray.pdb
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\BillArray\obj\Debug\net8.0\BillArray.genruntimeconfig.cache
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\BillArray\obj\Debug\net8.0\ref\BillArray.dll

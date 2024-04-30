@@ -1,0 +1,14 @@
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\FirstProjectCSharp\bin\Debug\net8.0\FirstProjectCSharp.exe
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\FirstProjectCSharp\bin\Debug\net8.0\FirstProjectCSharp.deps.json
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\FirstProjectCSharp\bin\Debug\net8.0\FirstProjectCSharp.runtimeconfig.json
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\FirstProjectCSharp\bin\Debug\net8.0\FirstProjectCSharp.dll
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\FirstProjectCSharp\bin\Debug\net8.0\FirstProjectCSharp.pdb
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\FirstProjectCSharp\obj\Debug\net8.0\FirstProjectCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\FirstProjectCSharp\obj\Debug\net8.0\FirstProjectCSharp.AssemblyInfoInputs.cache
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\FirstProjectCSharp\obj\Debug\net8.0\FirstProjectCSharp.AssemblyInfo.cs
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\FirstProjectCSharp\obj\Debug\net8.0\FirstProjectCSharp.csproj.CoreCompileInputs.cache
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\FirstProjectCSharp\obj\Debug\net8.0\FirstProjectCSharp.dll
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\FirstProjectCSharp\obj\Debug\net8.0\refint\FirstProjectCSharp.dll
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\FirstProjectCSharp\obj\Debug\net8.0\FirstProjectCSharp.pdb
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\FirstProjectCSharp\obj\Debug\net8.0\FirstProjectCSharp.genruntimeconfig.cache
+C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\FirstProjectCSharp\obj\Debug\net8.0\ref\FirstProjectCSharp.dll

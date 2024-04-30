@@ -1,0 +1,14 @@
+c:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\WhileWhileZ\obj\Debug\net8.0\WhileWhileZ.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\WhileWhileZ\obj\Debug\net8.0\WhileWhileZ.AssemblyInfoInputs.cache
+c:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\WhileWhileZ\obj\Debug\net8.0\WhileWhileZ.AssemblyInfo.cs
+c:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\WhileWhileZ\obj\Debug\net8.0\WhileWhileZ.csproj.CoreCompileInputs.cache
+c:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\WhileWhileZ\bin\Debug\net8.0\WhileWhileZ.exe
+c:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\WhileWhileZ\bin\Debug\net8.0\WhileWhileZ.deps.json
+c:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\WhileWhileZ\bin\Debug\net8.0\WhileWhileZ.runtimeconfig.json
+c:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\WhileWhileZ\bin\Debug\net8.0\WhileWhileZ.dll
+c:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\WhileWhileZ\bin\Debug\net8.0\WhileWhileZ.pdb
+c:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\WhileWhileZ\obj\Debug\net8.0\WhileWhileZ.dll
+c:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\WhileWhileZ\obj\Debug\net8.0\refint\WhileWhileZ.dll
+c:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\WhileWhileZ\obj\Debug\net8.0\WhileWhileZ.pdb
+c:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\WhileWhileZ\obj\Debug\net8.0\WhileWhileZ.genruntimeconfig.cache
+c:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\WhileWhileZ\obj\Debug\net8.0\ref\WhileWhileZ.dll
