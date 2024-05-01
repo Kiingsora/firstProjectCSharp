@@ -12,3 +12,4 @@ C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\boucle_FOR\obj\Debug\net8.
 C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\boucle_FOR\obj\Debug\net8.0\boucle_FOR.pdb
 C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\boucle_FOR\obj\Debug\net8.0\boucle_FOR.genruntimeconfig.cache
 C:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\boucle_FOR\obj\Debug\net8.0\ref\boucle_FOR.dll
+c:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\boucle_FOR\obj\Debug\net8.0\boucle_FOR.sourcelink.json

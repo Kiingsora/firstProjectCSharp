@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hiche\\Documents\\ZeroToPro\\firstProjectCSharp\\methodMan\\methodMan.csproj": {}
+    "c:\\Users\\hiche\\Documents\\ZeroToPro\\firstProjectCSharp\\methodMan\\methodMan.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hiche\\Documents\\ZeroToPro\\firstProjectCSharp\\methodMan\\methodMan.csproj": {
+    "c:\\Users\\hiche\\Documents\\ZeroToPro\\firstProjectCSharp\\methodMan\\methodMan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hiche\\Documents\\ZeroToPro\\firstProjectCSharp\\methodMan\\methodMan.csproj",
+        "projectUniqueName": "c:\\Users\\hiche\\Documents\\ZeroToPro\\firstProjectCSharp\\methodMan\\methodMan.csproj",
         "projectName": "methodMan",
-        "projectPath": "C:\\Users\\hiche\\Documents\\ZeroToPro\\firstProjectCSharp\\methodMan\\methodMan.csproj",
+        "projectPath": "c:\\Users\\hiche\\Documents\\ZeroToPro\\firstProjectCSharp\\methodMan\\methodMan.csproj",
         "packagesPath": "C:\\Users\\hiche\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hiche\\Documents\\ZeroToPro\\firstProjectCSharp\\methodMan\\obj\\",
+        "outputPath": "c:\\Users\\hiche\\Documents\\ZeroToPro\\firstProjectCSharp\\methodMan\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hiche\\AppData\\Roaming\\NuGet\\NuGet.Config"

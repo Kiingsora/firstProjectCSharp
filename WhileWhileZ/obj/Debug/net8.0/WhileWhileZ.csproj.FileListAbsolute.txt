@@ -12,3 +12,4 @@ c:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\WhileWhileZ\obj\Debug\net8
 c:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\WhileWhileZ\obj\Debug\net8.0\WhileWhileZ.pdb
 c:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\WhileWhileZ\obj\Debug\net8.0\WhileWhileZ.genruntimeconfig.cache
 c:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\WhileWhileZ\obj\Debug\net8.0\ref\WhileWhileZ.dll
+c:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\WhileWhileZ\obj\Debug\net8.0\WhileWhileZ.sourcelink.json

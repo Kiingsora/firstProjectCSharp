@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hiche\\Documents\\ZeroToPro\\firstProjectCSharp\\boucle_FOR\\boucle_FOR.csproj": {}
+    "c:\\Users\\hiche\\Documents\\ZeroToPro\\firstProjectCSharp\\boucle_FOR\\boucle_FOR.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hiche\\Documents\\ZeroToPro\\firstProjectCSharp\\boucle_FOR\\boucle_FOR.csproj": {
+    "c:\\Users\\hiche\\Documents\\ZeroToPro\\firstProjectCSharp\\boucle_FOR\\boucle_FOR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hiche\\Documents\\ZeroToPro\\firstProjectCSharp\\boucle_FOR\\boucle_FOR.csproj",
+        "projectUniqueName": "c:\\Users\\hiche\\Documents\\ZeroToPro\\firstProjectCSharp\\boucle_FOR\\boucle_FOR.csproj",
         "projectName": "boucle_FOR",
-        "projectPath": "C:\\Users\\hiche\\Documents\\ZeroToPro\\firstProjectCSharp\\boucle_FOR\\boucle_FOR.csproj",
+        "projectPath": "c:\\Users\\hiche\\Documents\\ZeroToPro\\firstProjectCSharp\\boucle_FOR\\boucle_FOR.csproj",
         "packagesPath": "C:\\Users\\hiche\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hiche\\Documents\\ZeroToPro\\firstProjectCSharp\\boucle_FOR\\obj\\",
+        "outputPath": "c:\\Users\\hiche\\Documents\\ZeroToPro\\firstProjectCSharp\\boucle_FOR\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hiche\\AppData\\Roaming\\NuGet\\NuGet.Config"

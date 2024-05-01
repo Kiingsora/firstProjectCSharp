@@ -1,0 +1,15 @@
+c:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\methodMan\bin\Debug\net8.0\methodMan.exe
+c:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\methodMan\bin\Debug\net8.0\methodMan.deps.json
+c:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\methodMan\bin\Debug\net8.0\methodMan.runtimeconfig.json
+c:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\methodMan\bin\Debug\net8.0\methodMan.dll
+c:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\methodMan\bin\Debug\net8.0\methodMan.pdb
+c:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\methodMan\obj\Debug\net8.0\methodMan.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\methodMan\obj\Debug\net8.0\methodMan.AssemblyInfoInputs.cache
+c:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\methodMan\obj\Debug\net8.0\methodMan.AssemblyInfo.cs
+c:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\methodMan\obj\Debug\net8.0\methodMan.csproj.CoreCompileInputs.cache
+c:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\methodMan\obj\Debug\net8.0\methodMan.sourcelink.json
+c:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\methodMan\obj\Debug\net8.0\methodMan.dll
+c:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\methodMan\obj\Debug\net8.0\refint\methodMan.dll
+c:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\methodMan\obj\Debug\net8.0\methodMan.pdb
+c:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\methodMan\obj\Debug\net8.0\methodMan.genruntimeconfig.cache
+c:\Users\hiche\Documents\ZeroToPro\firstProjectCSharp\methodMan\obj\Debug\net8.0\ref\methodMan.dll

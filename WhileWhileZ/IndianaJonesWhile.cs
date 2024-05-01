@@ -70,7 +70,6 @@ if (input == "y")
 
             if (map[randRow, randColumn] == map[numberIndex1, numberIndex2])
             {
-
                 Console.WriteLine("Félicitation! ");
                 Console.WriteLine("");
                 Console.WriteLine(" vous arrivez devant la relique!");
@@ -99,7 +98,6 @@ if (input == "y")
                 Console.WriteLine("");
                 Console.WriteLine("...À suivre");
                 break;
-
             }// loose
             else
             {
