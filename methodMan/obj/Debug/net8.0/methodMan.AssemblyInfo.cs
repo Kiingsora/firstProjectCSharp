@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("methodMan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af821b589cc1be09e151c54a191d79c2540150d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5583e67b5f6e869d289895209e41cb362c83b45")]
 [assembly: System.Reflection.AssemblyProductAttribute("methodMan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("methodMan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
